@@ -1,5 +1,4 @@
 # git-commands
-gitHub-commands
 базовые команды
 git clone адрес репозитория - клонировать репозиторий на локальный компютер
 git commit -m 'initial commit' комит изменений в локальный репозиторий
