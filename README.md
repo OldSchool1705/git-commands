@@ -48,6 +48,12 @@ git push origin --delete newbranch - удалить ветку newbranch в уд
 git config --list - показывает имя и все данные глобально <br>
 <br>
 <br>
+   С какой ветки сделан checkout <br>
+   git branch -v -показывает логи <br>
+   git log --all --decorate --oneline --graph -ресует в консоли ветки <br>
+   git log -n 2 -info о ветке <br>
+<br>
+<br>
 Работа с версиями программы <br>
 1. Разработку лучше вести не в ветке master, <br>
    а в другой ветке, например, develop, новые функции программы ветвить от develop, <br> 
