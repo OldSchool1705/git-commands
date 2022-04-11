@@ -19,9 +19,9 @@ git revert HEAD --no-edit - Чтобы удостовериться, что вс
 git log <br>
 <br>
 <br>
-Подтянуть измение из Branch
-git fetch 
-git merge
+Подтянуть измение из Branch <br
+git fetch <br
+git merge <br
 <br>
 <br>
 работа с ветками <br>
