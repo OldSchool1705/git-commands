@@ -19,6 +19,11 @@ git revert HEAD --no-edit - Чтобы удостовериться, что вс
 git log <br>
 <br>
 <br>
+Подтянуть измение из Branch
+git fetch 
+git merge
+<br>
+<br>
 работа с ветками <br>
 merge - сначала подтягиваем в свою ветку из master все изменения <br>
 merge - потом тестируем и делаем слияние переходим (checkout) в master и применяем (merge) все изменения из нашей ветки <br>
