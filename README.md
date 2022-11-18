@@ -1,4 +1,7 @@
 # git-commands
+Если git учитывает верхний регистр https://stackoverflow.com/questions/17683458/how-do-i-commit-case-sensitive-only-filename-changes-in-git
+
+
 базовые команды <br>
 git clone адрес репозитория - клонировать репозиторий на локальный компютер <br>
 git commit -m 'initial commit' комит изменений в локальный репозиторий <br>
